@@ -8,7 +8,7 @@ function appendNumber(value) {
 }
 
 function appendOperator(operator) {
-    if (currentInput === "" && operator != ".") return
+    if (currentInput === "" && operator != "." && operator != "-") return
     currentInput += operator;
     display.textContent = currentInput;
 }

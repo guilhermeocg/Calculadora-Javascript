@@ -1,3 +1,3 @@
 Calculadora Javascript
 
-Projeto de calculadora utilizando HTML, CSS e JavaScript.
+Projeto de calculadora com precisão de duas casas decimais utilizando HTML, CSS e JavaScript.
